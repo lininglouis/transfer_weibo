@@ -1,0 +1,2 @@
+# transfer_weibo
+如何使用python和selenium将自己收藏微博和原创微博的链接导出来，并转移到自己的新号当中
